@@ -254,5 +254,23 @@ footer {
         width: 80%;
         margin-bottom: 40px;
     }
+
+    #other-products h2 {
+        margin: 25px auto 20px auto;
+    }
+
+    .product img {
+        width: 80%;
+        /* height: 80%; */
+        max-height: 200px;
+        max-width: 200px;
+        object-fit: cover;
+    }
+
+    .product {
+        width: 70%;
+        display: block;
+        margin: 0 auto;
+    }
     
 }
