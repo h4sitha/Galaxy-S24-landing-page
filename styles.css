@@ -90,8 +90,17 @@ input {
     margin-top: -20px;
 }
 
-#features h2 {
+h2 {
     text-align: center;
     margin: 50px 0 25px 0;
     font-size: 3rem;
+}
+
+#trailer  h2 {
+    font-size: 2rem;
+}
+
+iframe {
+    margin: 0 auto;
+    display: block;
 }
