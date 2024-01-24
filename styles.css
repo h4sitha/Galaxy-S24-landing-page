@@ -151,11 +151,18 @@ hr:first-of-type {
 
 #other-products {
     margin: 0 auto;
-    max-width: 600px;
+    max-width: 700px;
     width: 80%;
     display: block;
+    /* border: 1px solid black; */
 }
 
 .product .zoom {
     object-fit: cover;
+}
+
+#product-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
 }
