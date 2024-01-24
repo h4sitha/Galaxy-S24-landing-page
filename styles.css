@@ -57,3 +57,13 @@ input {
     border-radius: 10px;
     border: 1px solid rgba(0,0,0,0.2);
 }
+
+#submit {
+    padding: 8px 18px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 1px solid rgba(0,0,0,0.2);
+    color: white;
+    margin-top: 16px;
+    background-color: rgba(0,0,0,0.8);
+}
