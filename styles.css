@@ -309,7 +309,7 @@ footer {
     }
 
     #product-wrapper {
-        overflow:scroll;
+        overflow: auto;
     }
 
     hr, hr:first-of-type {
@@ -334,5 +334,5 @@ footer {
     #features p {
         margin: 0 0 15px 0;
     }
-    
+
 }
