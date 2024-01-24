@@ -272,5 +272,10 @@ footer {
         display: block;
         margin: 0 auto;
     }
+
+    li {
+        margin-left: 10px;
+        font-size: 14px;
+    }
     
 }
