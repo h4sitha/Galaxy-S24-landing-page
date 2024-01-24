@@ -40,8 +40,13 @@ input {
     justify-content: center;
     align-items: center;
     gap: 50px;
+    margin-top: 40px;
 }
 
 #form {
-    margin-bottom: 100px;
+    margin-bottom: 70px;
+}
+
+#right-side img {
+    width: 350px;
 }
