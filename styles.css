@@ -336,3 +336,8 @@ footer {
     }
 
 }
+
+a:hover {
+    position: relative;
+    bottom: 2px;
+}
