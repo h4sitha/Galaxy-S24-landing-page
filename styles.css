@@ -6,6 +6,10 @@
     /* border: 1px solid yellowgreen; */
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #f4f4f4;
 }
