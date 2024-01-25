@@ -78,7 +78,7 @@ input {
     color: white;
     margin-top: 16px;
     background-color: rgba(0,0,0,0.8);
-    transition-duration: 500ms;
+    transition-duration: 200ms;
 }
 
 #features {
@@ -363,7 +363,7 @@ a:hover {
 }
 
 #submit:active {
-    transform: scale(1.03);
+    transform: scale(0.95);
 }
 
 #email:focus {
