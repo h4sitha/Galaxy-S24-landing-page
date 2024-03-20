@@ -399,3 +399,7 @@ svg {
     width: 16px;
     cursor: pointer;
 }
+
+.logo-inverted {
+    filter: invert(1);
+}
