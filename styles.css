@@ -188,6 +188,12 @@ footer {
     padding: 10px;
 }
 
+#trailer,
+#features,
+#other-products {
+    scroll-margin-top: 5.5rem;
+}
+
 
 @media screen and (max-width: 480px) {
 
