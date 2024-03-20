@@ -368,7 +368,7 @@ footer {
 
 }
 
-li:hover {
+li:not(:first-of-type):hover {
     transform: translate(0, -2px);
 }
 
