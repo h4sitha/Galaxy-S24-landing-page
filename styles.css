@@ -384,3 +384,9 @@ li:hover {
     border: 1px solid rgba(var(--secondary-clr), 0.4);
     transform: scale(1.03);
 }
+
+svg {
+    height: 16px;
+    width: 16px;
+    cursor: pointer;
+}
