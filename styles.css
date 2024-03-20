@@ -84,6 +84,8 @@ input {
     border-radius: 10px;
     border: 1px solid rgba(var(--secondary-clr), 0.2);
     transition-duration: 100ms;
+    color: rgb(var(--secondary-clr));
+    background-color: rgb(var(--theme-clr));
 }
 
 #submit {
