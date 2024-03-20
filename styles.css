@@ -25,6 +25,7 @@ html {
 
 body {
     background-color: var(--main-background-clr);
+    color: rgb(var(--secondary-clr), 0.8);
 }
 
 header {
