@@ -76,6 +76,7 @@ input {
 
 #right-side img {
     width: 350px;
+    border: 1px solid rgba(var(--secondary-clr), 0.4);
 }
 
 #email {
