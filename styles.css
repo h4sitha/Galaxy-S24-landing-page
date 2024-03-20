@@ -196,7 +196,7 @@ hr:first-of-type {
 footer {
     margin-top: 50px;
     width: 100%;
-    background-color: var(--theme-clr);
+    background-color: rgb(var(--theme-clr));
     text-align: center;
     vertical-align: middle;
     padding: 10px;
