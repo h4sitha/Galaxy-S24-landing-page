@@ -5,6 +5,12 @@
     --secondary-clr: 0, 0, 0; /* Black */
 }
 
+.dark-theme {
+    --main-background-clr: hsl(0, 0%, 10%);
+    --theme-clr: 0, 0, 0;
+    --secondary-clr: 255, 255, 255;
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
