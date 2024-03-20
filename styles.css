@@ -160,7 +160,7 @@ hr:first-of-type {
 #product-wrapper button {
     padding: 5px 10px;
     background-color: hsla(var(--secondary-button-clr), 50%, 0.8);
-    color: rgb(var(--theme-clr));
+    color: white;
     border: 0;
     border-radius: 5px;
     transition-duration: 500ms;
